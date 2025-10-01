@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DeJFS7WRoqPw4x75MiYNwGLvvKngVMz1G9Tu+USo7co=",
+  "Source": "TestShop.Api",
+  "BasePath": "_content/TestShop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

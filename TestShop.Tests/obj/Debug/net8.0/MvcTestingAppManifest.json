@@ -1,0 +1,6 @@
+{
+  "TestShop.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop",
+  "TestShop.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application",
+  "TestShop.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain",
+  "TestShop.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure"
+}

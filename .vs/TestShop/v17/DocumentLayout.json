@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052EAC0E-11A7-4AC5-BB75-38EF433560D2}|Solution Items{052EAC0E-11A7-4AC5-BB75-38EF433560D2}|C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{052EAC0E-11A7-4AC5-BB75-38EF433560D2}|Solution Items{052EAC0E-11A7-4AC5-BB75-38EF433560D2}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\persistence\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\persistence\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\services\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\services\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|solutionrelative:testshop.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|solutionrelative:testshop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|solutionrelative:testshop.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD27763-5F52-454C-9F40-D71011F9D68C}|TestShop.Domain\\TestShop.Domain.csproj|solutionrelative:testshop.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\validators\\cart\\cartupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\validators\\cart\\cartupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\dtos\\products\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\dtos\\products\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\dtos\\notifications\\notificationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\dtos\\notifications\\notificationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\dtos\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\dtos\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\dtos\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\dtos\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\dtos\\common\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\dtos\\common\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\dtos\\cart\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\dtos\\cart\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.tests\\apiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|solutionrelative:testshop.tests\\apiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.tests\\utils\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|solutionrelative:testshop.tests\\utils\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.tests\\validatorstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|solutionrelative:testshop.tests\\validatorstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|solutionrelative:testshop.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.tests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C919EE-EC4F-4A4B-8DA7-1EC2969A62BD}|TestShop.Tests\\TestShop.Tests.csproj|solutionrelative:testshop.tests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.application\\testshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A42A9F5-091C-44CF-B537-CA24416C5D5B}|TestShop.Application\\TestShop.Application.csproj|solutionrelative:testshop.application\\testshop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop.infrastructure\\testshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A9B6F8E-2DCC-4C15-93F5-375CAC3C4F6A}|TestShop.Infrastructure\\TestShop.Infrastructure.csproj|solutionrelative:testshop.infrastructure\\testshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\testshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\testshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|c:\\users\\gintare\\onedrive\\desktop\\test project\\testshop\\testshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9014C99F-900D-4218-9929-444A5D973326}|TestShop\\TestShop.Api.csproj|solutionrelative:testshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-01T19:06:01.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:08:39.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:00:50.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Services\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Services\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Services\\JwtOptions.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Services\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:11:03.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:12:18.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:18:26.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Persistence\\SeedData.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Persistence\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Persistence\\SeedData.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Persistence\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:07:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:09:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "TestShop.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:05:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TestShop.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TestShop.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:14:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TestShop.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "TestShop.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:37:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "TestShop.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "TestShop.Domain\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:37:28.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "TestShop.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "TestShop.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:37:23.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TestShop.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:56:52.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "TestShop.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:56:50.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "TestShop.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:56:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "TestShop.Application\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:56:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "TestShop.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:56:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeToolTip": "TestShop.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:58:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartUpdateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Validators\\Cart\\CartUpdateRequestValidator.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\Validators\\Cart\\CartUpdateRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\Validators\\Cart\\CartUpdateRequestValidator.cs",
+              "RelativeToolTip": "TestShop.Application\\Validators\\Cart\\CartUpdateRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:59:17.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Products\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\DTOs\\Products\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Products\\ProductDtos.cs",
+              "RelativeToolTip": "TestShop.Application\\DTOs\\Products\\ProductDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:55:25.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificationDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Notifications\\NotificationDtos.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\DTOs\\Notifications\\NotificationDtos.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Notifications\\NotificationDtos.cs",
+              "RelativeToolTip": "TestShop.Application\\DTOs\\Notifications\\NotificationDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:56:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\DTOs\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Common\\Result.cs",
+              "RelativeToolTip": "TestShop.Application\\DTOs\\Common\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:54:00.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\DTOs\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Common\\PagedResult.cs",
+              "RelativeToolTip": "TestShop.Application\\DTOs\\Common\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:54:36.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Common\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\DTOs\\Common\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Common\\ErrorResponse.cs",
+              "RelativeToolTip": "TestShop.Application\\DTOs\\Common\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:53:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Cart\\CartDtos.cs",
+              "RelativeDocumentMoniker": "TestShop.Application\\DTOs\\Cart\\CartDtos.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\DTOs\\Cart\\CartDtos.cs",
+              "RelativeToolTip": "TestShop.Application\\DTOs\\Cart\\CartDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:55:40.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Program.cs",
+              "RelativeDocumentMoniker": "TestShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Program.cs",
+              "RelativeToolTip": "TestShop\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAywCkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:56:01.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TestShop\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "TestShop\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:03:06.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TestShop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TestShop\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:47:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "TestShop\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "TestShop\\Controllers\\NotificationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:55:18.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "TestShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "TestShop\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:54:32.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TestShop\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TestShop\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:47:22.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\ApiIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TestShop.Tests\\ApiIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\ApiIntegrationTests.cs",
+              "RelativeToolTip": "TestShop.Tests\\ApiIntegrationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:10:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\Utils\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "TestShop.Tests\\Utils\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\Utils\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "TestShop.Tests\\Utils\\CustomWebApplicationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:02:40.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TestShop.Tests\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "TestShop.Tests\\ProductRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:59:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "TestShop.Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "TestShop.Tests\\AuthServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:06:36.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ValidatorsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\ValidatorsTests.cs",
+              "RelativeDocumentMoniker": "TestShop.Tests\\ValidatorsTests.cs",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Tests\\ValidatorsTests.cs",
+              "RelativeToolTip": "TestShop.Tests\\ValidatorsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:09:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TestShop.Application",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\TestShop.Application.csproj",
+              "RelativeDocumentMoniker": "TestShop.Application\\TestShop.Application.csproj",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Application\\TestShop.Application.csproj",
+              "RelativeToolTip": "TestShop.Application\\TestShop.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T16:48:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TestShop.Api",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\TestShop.Api.csproj",
+              "RelativeDocumentMoniker": "TestShop\\TestShop.Api.csproj",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\TestShop.Api.csproj",
+              "RelativeToolTip": "TestShop\\TestShop.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T16:45:35.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TestShop.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\TestShop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TestShop.Infrastructure\\TestShop.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop.Infrastructure\\TestShop.Infrastructure.csproj",
+              "RelativeToolTip": "TestShop.Infrastructure\\TestShop.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T16:44:45.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\appsettings.json",
+              "RelativeDocumentMoniker": "TestShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gintare\\OneDrive\\Desktop\\Test project\\TestShop\\TestShop\\appsettings.json",
+              "RelativeToolTip": "TestShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T14:21:31.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

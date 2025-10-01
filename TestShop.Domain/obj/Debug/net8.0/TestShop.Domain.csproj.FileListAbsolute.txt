@@ -1,0 +1,11 @@
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\bin\Debug\net8.0\TestShop.Domain.deps.json
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\bin\Debug\net8.0\TestShop.Domain.dll
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\bin\Debug\net8.0\TestShop.Domain.pdb
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\TestShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\TestShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\TestShop.Domain.AssemblyInfo.cs
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\TestShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\TestShop.Domain.dll
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\refint\TestShop.Domain.dll
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\TestShop.Domain.pdb
+C:\Users\Gintare\OneDrive\Desktop\Test project\TestShop\TestShop.Domain\obj\Debug\net8.0\ref\TestShop.Domain.dll
